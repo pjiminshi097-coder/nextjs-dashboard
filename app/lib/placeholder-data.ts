@@ -67,7 +67,7 @@ const invoices = [
     id: '6f3ba4b9-8d1f-4f95-9b6f-33b2ef0f0003',
     customer_id: customers[4].id,
     amount: 3040,
-    status: 'paid',
+    status: 'pending',
     date: '2022-10-29',
   },
   {
@@ -81,7 +81,7 @@ const invoices = [
     id: '6f3ba4b9-8d1f-4f95-9b6f-33b2ef0f0005',
     customer_id: customers[5].id,
     amount: 34577,
-    status: 'pending',
+    status: 'paid',
     date: '2023-08-05',
   },
   {
@@ -109,7 +109,7 @@ const invoices = [
     id: '6f3ba4b9-8d1f-4f95-9b6f-33b2ef0f0009',
     customer_id: customers[4].id,
     amount: 1250,
-    status: 'paid',
+    status: 'pending',
     date: '2023-06-17',
   },
   {
